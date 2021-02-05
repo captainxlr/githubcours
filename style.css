@@ -1,0 +1,15 @@
+body{
+  margin: 0 auto;
+  padding: 10;
+}
+h1{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+.pdf{
+  width: 100vh;
+  height: 100vh;
+}
+img{
+  position: relative;
+}
